@@ -66,7 +66,7 @@ npm install
 ```
 
 ## Screenshot 
-![Dashboard](image.png)
+![Dashboard](pic.png)
 
 ## 🔧 Usage 
 To run the server in development mode:
